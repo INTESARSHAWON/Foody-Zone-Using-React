@@ -77,7 +77,11 @@ const App = () => {
       {
         name: "Dinner",
         type: "dinner"
-      }
+      },
+      {
+        name: "Midnight",
+        type: "midnight",
+      },
     ]
 
   if (error) return <div>{error}</div>;

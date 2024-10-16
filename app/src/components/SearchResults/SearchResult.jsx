@@ -8,7 +8,7 @@ const SearchResult = ({ data }) => {
           {data?.map(({ name, image, text, price }) => (
             <FoodCard key={name}>
               <div className="food_image">
-                <img src={BASE_URL + image} />
+                <img src={`https://foody-zone-using-react.onrender.com` + image} />
               </div>
               <div className="food_info">
                 <div className="info">

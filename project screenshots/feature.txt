@@ -1,0 +1,7 @@
+
+1. React
+2. Styled components
+3. JS
+
+
+A food related responsive webpage where all the data comes from backend. Here I use Api calling function. Here A user can search food from the list.   
